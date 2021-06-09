@@ -45,14 +45,12 @@
       {
         "school": "Maharaja Sayajirao University of Vadodara",
         "degree": "Bachelors of Engineering in Computer Science and Engineering",
-        "graduated": "April 2020",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "graduated": "April 2020"
       },
       {
         "school": "Parth School",
         "degree": "High School",
-        "graduated": "March 2016",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "graduated": "March 2016"
       }
     ],
     "work": [
@@ -60,13 +58,26 @@
         "company": "Electrum It Solutions Pvt. Ltd.",
         "title": "Software Engineer",
         "years": "Janurary 2021 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": [
+          "Programmed responsive, interactive, and easy to operate websites and mobile applications for clients.",
+          "Develop a responsive website from scratch, with an excellent user experience.",
+          "Collaborate with designers to create simple, clean, and intuitive interfaces. ",
+          "Delivered products on time by collaboratively working with the design team, client team, and senior management.",
+          "Improved client experience worldwide by offering constant support, feedback, and personalized solutions.",
+          "Tested performance on cross-browser compatibility, customized features, and overall usage. ",
+          "Increased revenue for the company by building projects using the latest technologies to attract new clients."
+        ]
       },
       {
         "company": "Free Lancing",
         "title": "Web Developer",
         "years": "April 2020 - Janurary 2021",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": [
+          "Developed an easily navigable Mozilla Gujarat Website that helps the tech community stay connected with the knowledge of upcoming events, and clubs (www.mozguj.org).",
+          "Designed an informative website named  Cross World Estate Website for real estate businesses to improve the overall performance and client experience.",
+          "Created simple React Personal Projects on MERN Stack, and React Website for Aarna Jewels, Surat.",
+          "Provided technical solutions to clients related to web hosting and troubleshooting problems related to DNS, web hosting, email setups, and domain issues. "
+        ]
       }
     ],
     "skills": [

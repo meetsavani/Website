@@ -26,7 +26,7 @@ class Footer extends Component {
                 <li>&copy; Copyright 2021</li>
                 <li>
                   Design by
-                  <a title="Styleshout" href="#">
+                  <a title="Styleshout" href="#home">
                     Meet Savani
                   </a>
                 </li>
