@@ -1,0 +1,102 @@
+{
+  "main": {
+    "name": "Meet Savani",
+    "description": "I am a Full stack Software Engineer and I use React.js, Node, MySQL and Flask or Sanic to develop web application.",
+    "image": "profilepic.jpeg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Get in touch with me.",
+    "email": "savanimeet01@gmail.com",
+    "phone": "+91-99248869111",
+    "github": "https://github.com/meetsavani",
+    "project": "https://github.com/meetsavani",
+    "address": {
+      "city": "Vadodara",
+      "state": "Gujarat",
+      "zip": "390009"
+    },
+    "website": "https://www.meetsave.com",
+    "resumedownload": "https://www.meetsave.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/meet.savani.5",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/savani__meet",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/meet-savani-b98734178/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/meetsavani",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am skilled in developing Fornt-end Web applications",
+    "education": [
+      {
+        "school": "Maharaja Sayajirao University of Vadodara",
+        "degree": "Bachelors of Engineering in Computer Science and Engineering",
+        "graduated": "April 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Parth School",
+        "degree": "High School",
+        "graduated": "March 2016",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Electrum It Solutions Pvt. Ltd.",
+        "title": "Software Engineer",
+        "years": "Janurary 2021 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Free Lancing",
+        "title": "Web Developer",
+        "years": "April 2020 - Janurary 2021",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Ionic",
+        "level": "60%"
+      },
+      {
+        "name": "Sanic",
+        "level": "70%"
+      },
+      {
+        "name": "Flask",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": []
+  }
+}
