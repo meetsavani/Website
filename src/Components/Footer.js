@@ -25,9 +25,9 @@ class Footer extends Component {
               <ul className="copyright">
                 <li>&copy; Copyright 2021</li>
                 <li>
-                  Design by Open Source, Edited by
+                  Design by Open Source, Edited by $nbsp;
                   <a title="Styleshout" href="#home">
-                   $nbsp; Meet Savani
+                    Meet Savani
                   </a>
                 </li>
               </ul>
