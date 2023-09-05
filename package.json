@@ -1,6 +1,6 @@
 {
-  "name": "reactniceresume",
-  "version": "0.1.0",
+  "name": "MeetSavani",
+  "version": "0.1.1",
   "private": true,
   "homepage": "./",
   "dependencies": {
@@ -19,7 +19,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

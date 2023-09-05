@@ -49,9 +49,10 @@ class About extends Component {
                   </p>
                 </div>
                 <div className="columns download">
+                <iframe id="resume" title="resume" src="/MeetSavani.pdf"></iframe>
                   <p>
                     <a href={resumeDownload} className="button">
-                      <i className="fa fa-download"></i>Download Resume
+                      <i className="fa fa-download"></i>Downloads Resume
                     </a>
                   </p>
                 </div>
