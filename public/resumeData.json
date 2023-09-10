@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Meet Savani",
-    "description": "I am a Full stack Software Engineer and I use React.js, Node, MySQL and Flask or Sanic to develop web application.",
+    "description": "I am a Full stack Software Engineer and I use React.js, Node, MySQL and Python - Django, Flask, Sanic or PHP to develop web application.",
     "image": "profilepic.jpeg",
     "bio": "I love Web Development and I have a passion for creating intuitive and dynamic user experiences.",
     "contactmessage": "Get in touch with me.",
