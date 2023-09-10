@@ -43,51 +43,60 @@
     "skillmessage": "I am skilled in developing Fornt-end Web applications",
     "education": [
       {
+        "school": "University of Texas at Arlington",
+        "degree": "Masters of Science in Computer Science",
+        "graduated": "December 2023"
+      },
+      {
         "school": "Maharaja Sayajirao University of Vadodara",
         "degree": "Bachelors of Engineering in Computer Science and Engineering",
         "graduated": "April 2020"
-      },
-      {
-        "school": "Parth School",
-        "degree": "High School",
-        "graduated": "March 2016"
       }
     ],
     "work": [
       {
         "company": "Electrum It Solutions Pvt. Ltd.",
         "title": "Software Engineer",
-        "years": "Janurary 2021 - Present",
+        "years": "Jan. 2021 - Oct. 2021",
         "description": [
-          "Programmed responsive, interactive, and easy to operate websites and mobile applications for clients.",
-          "Develop a responsive website from scratch, with an excellent user experience.",
-          "Collaborate with designers to create simple, clean, and intuitive interfaces. ",
-          "Delivered products on time by collaboratively working with the design team, client team, and senior management.",
-          "Improved client experience worldwide by offering constant support, feedback, and personalized solutions.",
-          "Tested performance on cross-browser compatibility, customized features, and overall usage. ",
-          "Increased revenue for the company by building projects using the latest technologies to attract new clients."
+          "Orchestrated the delivery of four cutting-edge Progressive Web Applications (PWAs) for web and mobile, harnessing technologies such as ReactJS, Angular, ExpressJS, Python, and PHP, meeting diverse client demands.",
+          "Designed fully responsive, interactive, and user-friendly interfaces, driving a remarkable 25% increase in user engagement and overall satisfaction.",
+          "Achieved a 100% on-time delivery rate, consistently delivering projects within defined timelines and budgets, garnering client accolades for exceeding expectations.",
+          "Fostered seamless collaboration across cross-functional teams, including design, clients, and senior management, nurturing robust professional relationships and ensuring project success.",
+          "Spearheaded the development of five compelling demo projects and proof of concept initiatives, playing a pivotal role in elevating company growth and market presence."
         ]
       },
       {
-        "company": "Free Lancing",
-        "title": "Web Developer",
-        "years": "April 2020 - Janurary 2021",
+        "company": "VINROX Technologies LLP",
+        "title": "Software Engineer",
+        "years": "Jun. 2020 - Jan. 2021",
         "description": [
-          "Developed an easily navigable Mozilla Gujarat Website that helps the tech community stay connected with the knowledge of upcoming events, and clubs (www.mozguj.org).",
-          "Designed an informative website named  Cross World Estate Website for real estate businesses to improve the overall performance and client experience.",
-          "Created simple React Personal Projects on MERN Stack, and React Website for Aarna Jewels, Surat.",
-          "Provided technical solutions to clients related to web hosting and troubleshooting problems related to DNS, web hosting, email setups, and domain issues. "
+          "Led the development of cutting-edge web applications using React, Node.js, and MongoDB, achieving high-performance outcomes and introducing innovative features.",
+          "Seamlessly integrated seven third-party APIs for payment gateways and shipping services, bolstered by stringent security measures to safeguard user data.",
+          "Strategically optimized website performance based on data-driven insights, resulting in a remarkable 20% increase in user engagement.",
+          "Collaborated closely with cross-functional teams to successfully launch three complex projects, emphasizing user-centric design principles and delivering high-quality code."
+        ]
+      },
+      {
+        "company": "VINROX Technologies LLP",
+        "title": "Software Engineer Intern",
+        "years": "May. 2019 - Jun. 2020",
+        "description": [
+          "Collaborated effectively in the construction of eight dynamic web applications, utilizing React, Node.js, and MongoDB, gaining hands-on experience throughout the software development lifecycle.",
+          "Integrated nine third-party APIs with rigorous security measures to ensure the integrity of user data.",
+          "Enhanced teamwork and communication skills through active coordination with developers, designers, and project managers across multiple projects.",
+          "Elevated client interaction skills, providing project updates and insights while refining the ability to communicate technical details effectively to non-technical stakeholders during participation in technical workshops and seminars."
         ]
       }
     ],
     "skills": [
       {
         "name": "Python",
-        "level": "60%"
+        "level": "80%"
       },
       {
         "name": "ReactJs",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "CSS",
@@ -103,11 +112,28 @@
       },
       {
         "name": "Flask",
-        "level": "50%"
+        "level": "80%"
       }
     ]
   },
   "portfolio": {
-    "projects": []
+    "projects": [
+      {
+        "title":"Callation",
+        "url":"https://www.callation.com.au/"
+      },
+      {
+        "title":"Callation Reseller",
+        "url":"https://reseller.callation.com.au/login"
+      },
+      {
+        "title":"Virtual Guide",
+        "url":"https://e-virtual-guide.netlify.app/login"
+      },
+      {
+        "title":"Pagebuzz",
+        "url":"https://pagebuzz.in/"
+      }
+    ]
   }
 }
