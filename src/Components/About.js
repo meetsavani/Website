@@ -48,9 +48,10 @@ class About extends Component {
                     <span>{email}</span>
                   </p>
                 </div>
-                <div className="columns download">
-                  <iframe className="resume-content" src="https://docs.google.com/document/d/e/2PACX-1vQCRWRY0cI2R9tR7V4rHUf9ZSeuWLN-imjmobz6GsjlCOox8zGhXLoOm0qYvU8IWZTS3mRsVk5WSUGc/pub?embedded=true"></iframe>
-                </div>
+
+              </div>
+              <div className="columns download width-full">
+                <iframe className="resume-content" src="https://docs.google.com/document/d/e/2PACX-1vT5YLy-lhme7j-puhOnzGIUAep_zc1SWu5MtR5bhxdKKtVelYp0kNMEfNF-VNFlhIB6-Ijy8xllXjDQ/pub?embedded=true"></iframe>
               </div>
             </div>
           </div>
