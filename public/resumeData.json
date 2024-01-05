@@ -1,32 +1,22 @@
 {
   "main": {
     "name": "Meet Savani",
-    "description": "I am a Full stack Software Engineer and I use React.js, Node, MySQL and Python - Django, Flask, Sanic or PHP to develop web application.",
+    "description": "I am a Full stack Software Engineer and I use React.js, Node, MySQL, Python, Django, Flask and PHP to develop applications.",
     "image": "profilepic.jpeg",
-    "bio": "I love Web Development and I have a passion for creating intuitive and dynamic user experiences.",
+    "bio": "Highly motivated software engineering professional with experience in developing, deploying, and maintaining web, mobile, and desktop applications. Skilled in utilizing various technologies such as Python, JavaScript, HTML, CSS, and SQL. Experienced in working in team-oriented software development projects and agile development methodologies. Excited about developing innovative and efficient software solutions that meet customer needs.",
     "contactmessage": "Get in touch with me.",
     "email": "savanimeet06@gmail.com",
     "phone": "+1-6573195502",
     "github": "https://github.com/meetsavani",
     "project": "https://github.com/meetsavani",
     "address": {
-      "city": "Arlington",
-      "state": "Texas",
-      "zip": "76013"
+      "city": "Artesia",
+      "state": "California",
+      "zip": "90701"
     },
     "website": "https://www.meetsave.com",
     "resumedownload": "https://www.meetsave.com",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/meet.savani.5",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/savani__meet",
-        "className": "fa fa-twitter"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/meet-savani-b98734178/",
@@ -40,7 +30,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "I am skilled in developing Fornt-end Web applications",
+    "skillmessage": "I am skilled in developing Full Stack applications",
     "education": [
       {
         "school": "University of Texas at Arlington",
@@ -56,43 +46,49 @@
     "work": [
       {
         "company": "Electrum It Solutions Pvt. Ltd.",
-        "title": "Software Engineer",
-        "years": "Jan. 2021 - Oct. 2021",
+        "title": "Software Engineer (Full Stack Developer)",
+        "years": "Jan. 2021 - Dec. 2021",
         "description": [
-          "Orchestrated the delivery of four cutting-edge Progressive Web Applications (PWAs) for web and mobile, harnessing technologies such as ReactJS, Angular, ExpressJS, Python, and PHP, meeting diverse client demands.",
-          "Designed fully responsive, interactive, and user-friendly interfaces, driving a remarkable 25% increase in user engagement and overall satisfaction.",
-          "Achieved a 100% on-time delivery rate, consistently delivering projects within defined timelines and budgets, garnering client accolades for exceeding expectations.",
-          "Fostered seamless collaboration across cross-functional teams, including design, clients, and senior management, nurturing robust professional relationships and ensuring project success.",
-          "Spearheaded the development of five compelling demo projects and proof of concept initiatives, playing a pivotal role in elevating company growth and market presence."
-        ]
+         "Utilized modern front-end technologies like HTML5, CSS3, and JavaScript frameworks (React, Vue.js, Angular) to create interactive and visually appealing front-end web applications for seamless experiences across devices.",
+         "Leveraged Node.js, Express, and Django to architect robust back-end applications resulting in a 30% improvement in application performance and scalability.",
+         "Designed and optimized database schemas using MongoDB, PostgreSQL, and Redis leading to a 40% reduction in database query times. Implemented data caching strategies for improved application speed and efficiency.",
+         "Implemented OAuth, JWT, and secure encryption techniques to fortify user authentication and data protection.",
+         "Automated deployment pipelines using Jenkins and GitLab for CI/CD. Managed infrastructure on AWS and utilized Terraform for infrastructure as code.",
+         "Actively participated in Agile ceremonies, utilizing Scrum and Kanban methodologies. Collaborated closely with cross-functional teams to deliver high-quality products within strict timelines."        ]
       },
       {
         "company": "VINROX Technologies LLP",
-        "title": "Software Engineer",
-        "years": "Jun. 2020 - Jan. 2021",
+        "title": "Software Engineer (Full Stack Developer)",
+        "years": "Jun. 2018 - Jan. 2021",
         "description": [
-          "Led the development of cutting-edge web applications using React, Node.js, and MongoDB, achieving high-performance outcomes and introducing innovative features.",
-          "Seamlessly integrated seven third-party APIs for payment gateways and shipping services, bolstered by stringent security measures to safeguard user data.",
-          "Strategically optimized website performance based on data-driven insights, resulting in a remarkable 20% increase in user engagement.",
-          "Collaborated closely with cross-functional teams to successfully launch three complex projects, emphasizing user-centric design principles and delivering high-quality code."
+         "Spearheaded the creation of dynamic web applications using React.js, Angular, and Django (Python) for the front end and back end. Leveraged GraphQL for optimized data handling, resulting in a notable 40% performance enhancement.",
+         "Implemented microservices architecture utilizing Node.js, Express.js, and a mix of MongoDB and PostgreSQL, bolstering system scalability and performance.",
+         "Developed RESTful APIs using Flask and Ruby on Rails, handling authentication, data processing, and integration with various third-party services reducing API response times by 20%.",
+         "Orchestrated the migration of legacy systems to cloud-native architectures, deploying on AWS with Docker containers and Kubernetes, reducing deployment time by 50% and streamlining orchestration.",
+         "Executed technical optimizations, integrating Redis caching for database performance enhancement, reducing response times by 30%, and improving system responsiveness.",
+         "Engineered AI-driven features using TensorFlow.js, elevating user experiences and adding advanced functionalities to applications.",
+         "Led the development of hybrid mobile applications using Ionic and React Native, delivering seamless experiences on iOS and Android platforms.",
+         "Architected a real-time analytics dashboard, leveraging WebSockets and D3.js, providing clients with actionable insights, resulting in a 25% increase in user engagement."
         ]
       },
       {
         "company": "VINROX Technologies LLP",
         "title": "Software Engineer Intern",
-        "years": "May. 2019 - Jun. 2020",
+        "years": "Jan. 2018 - Jun. 2018",
         "description": [
-          "Collaborated effectively in the construction of eight dynamic web applications, utilizing React, Node.js, and MongoDB, gaining hands-on experience throughout the software development lifecycle.",
-          "Integrated nine third-party APIs with rigorous security measures to ensure the integrity of user data.",
-          "Enhanced teamwork and communication skills through active coordination with developers, designers, and project managers across multiple projects.",
-          "Elevated client interaction skills, providing project updates and insights while refining the ability to communicate technical details effectively to non-technical stakeholders during participation in technical workshops and seminars."
+          "Assisted in the development of responsive user interfaces using HTML, CSS, and JavaScript frameworks such as jQuery. Collaborated with the design team to implement UI/UX enhancements.",
+          "Contributed to server-side scripting using PHP resulting in improved database query times by 15% and streamlined data processing."
         ]
       }
     ],
     "skills": [
       {
         "name": "Python",
-        "level": "80%"
+        "level": "90%"
+      },
+      {
+        "name": "Javascript",
+        "level": "90%"
       },
       {
         "name": "ReactJs",
@@ -103,15 +99,11 @@
         "level": "90%"
       },
       {
-        "name": "Ionic",
-        "level": "60%"
-      },
-      {
-        "name": "Sanic",
+        "name": "AWS",
         "level": "70%"
       },
       {
-        "name": "Flask",
+        "name": "MongoDB",
         "level": "80%"
       }
     ]

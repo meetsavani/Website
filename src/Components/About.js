@@ -1,5 +1,15 @@
 import React, { Component } from "react";
+import { Document, Page } from 'react-pdf';
 import Fade from "react-reveal";
+import pdf from './MeetSavani.pdf'
+import 'react-pdf/dist/Page/TextLayer.css';
+import 'react-pdf/dist/Page/AnnotationLayer.css';
+import { pdfjs } from 'react-pdf';
+
+pdfjs.GlobalWorkerOptions.workerSrc = new URL(
+  'pdfjs-dist/build/pdf.worker.min.js',
+  import.meta.url,
+).toString();
 
 class About extends Component {
   render() {
@@ -48,10 +58,15 @@ class About extends Component {
                     <span>{email}</span>
                   </p>
                 </div>
-
+                <div className="bttn-container">
+                  <a className="bttn-customize" href={pdf} download="MeetSavani.pdf">Download Resume</a>
+                </div>
               </div>
               <div className="columns download width-full">
-                <iframe className="resume-content" src="https://docs.google.com/document/d/e/2PACX-1vT5YLy-lhme7j-puhOnzGIUAep_zc1SWu5MtR5bhxdKKtVelYp0kNMEfNF-VNFlhIB6-Ijy8xllXjDQ/pub?embedded=true"></iframe>
+                {/* <iframe className="resume-content" src="https://docs.google.com/document/d/e/2PACX-1vT5YLy-lhme7j-puhOnzGIUAep_zc1SWu5MtR5bhxdKKtVelYp0kNMEfNF-VNFlhIB6-Ijy8xllXjDQ/pub?embedded=true"></iframe> */}
+                <Document file={pdf}>
+                  <Page pageNumber={1}/>
+                </Document>
               </div>
             </div>
           </div>
