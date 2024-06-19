@@ -19,7 +19,7 @@
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/meet-savani-b98734178/",
+        "url": "https://www.linkedin.com",
         "className": "fa fa-linkedin"
       },
       {
@@ -125,6 +125,10 @@
       {
         "title":"Pagebuzz",
         "url":"https://pagebuzz.in/"
+      },
+      {
+        "title":"Demo Hydrogen App",
+        "url":"https://meetsavani.netlify.app/"
       }
     ]
   }
