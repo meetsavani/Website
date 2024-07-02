@@ -49,13 +49,13 @@ class About extends Component {
                     <span>{email}</span>
                   </p>
                 </div>
-                <div className="bttn-container">
+                {/* <div className="bttn-container">
                   <a className="bttn-customize" href={pdf} download="MeetSavani.pdf">Download Resume</a>
-                </div>
+                </div> */}
               </div>
-              <div className="columns download width-full">
+              {/* <div className="columns download width-full">
                 <iframe src={pdf} width="100%" height="500px" />
-              </div>
+              </div> */}
             </div>
           </div>
         </Fade>

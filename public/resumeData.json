@@ -45,6 +45,16 @@
     ],
     "work": [
       {
+        "company": "The Commons XR",
+        "title": "Full Stack / DevOps Engineering Intern",
+        "years": "Jan. 2021 - present",
+        "description": [
+        "Collaborated with cross-functional teams to develop a web application, utilizing a stack comprising React.js for the front end, Python for the back end, Microsoft SQL Server for database management, and Azure for cloud deployment.",
+        "Designed and implemented RESTful APIs using Python and Azure Functions to facilitate communication between the front-end and back-end components using SQL queries to support application functionality and data management.",
+        "Developed and implemented new software features with a strong emphasis on security, ensuring compliance with company security standards and best practices."
+        ]
+      },
+      {
         "company": "Electrum It Solutions Pvt. Ltd.",
         "title": "Software Engineer (Full Stack Developer)",
         "years": "Jan. 2021 - Dec. 2021",
