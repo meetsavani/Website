@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Fade from "react-reveal";
-import pdf from './MeetSavani.pdf'
+// import pdf from './MeetSavani.pdf'
 
 class About extends Component {
   render() {
@@ -15,7 +15,7 @@ class About extends Component {
     const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
     const email = this.props.data.email;
-    const resumeDownload = this.props.data.resumedownload;
+    // const resumeDownload = this.props.data.resumedownload;
 
     return (
       <section id="about">
